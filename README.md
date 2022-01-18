@@ -1,5 +1,5 @@
 # procedural-painter
 
-https://imgur.com/a/L8ArbGz
 
+![](https://imgur.com/a/L8ArbGz)
 
